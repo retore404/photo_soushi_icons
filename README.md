@@ -26,3 +26,15 @@ WordPressテーマ"PhotoSoushi"<<https://github.com/retore404/PhotoSoushi>>用�
 
 ![Tag](src/svg/tag.svg)
 
+### カレンダー
+
+![Calendar](src/svg/calendar.svg)
+
+
+### カテゴリー
+
+![Category](src/svg/category.svg)
+
+### 記事
+
+![Article](src/svg/article.svg)
